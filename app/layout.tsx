@@ -11,7 +11,7 @@ const pixelFont = Press_Start_2P({
 });
 
 export const metadata: Metadata = {
-  title: "Somnia Links",
+  title: "SomLinks",
   description:
     "AI-powered payment link generation platform built on the Somnia blockchain network",
 };

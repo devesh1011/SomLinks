@@ -132,7 +132,7 @@ export default function PayListPage() {
                 {/* Main title with gradient text */}
                 <Link href="/">
                   <h1 className="text-4xl font-black bg-gradient-to-r from-white via-red-100 to-red-200 bg-clip-text text-transparent mb-1">
-                    Somnia Links
+                    SomLinks
                   </h1>
                 </Link>
                 {/* Subtitle with animated underline */}
@@ -182,7 +182,7 @@ export default function PayListPage() {
           <h2 className="text-5xl md:text-6xl font-black text-white mb-6 leading-tight">
             Discover
             <span className="block bg-gradient-to-r from-red-400 via-red-500 to-red-600 bg-clip-text text-transparent font-pixel">
-              Somnia Links
+              SomLinks
             </span>
           </h2>
           <p className="text-xl text-gray-300 max-w-2xl mx-auto leading-relaxed">
@@ -220,7 +220,7 @@ export default function PayListPage() {
                 {/* Content */}
                 <div className="space-y-4">
                   <h3 className="text-2xl font-bold text-white group-hover:text-red-100 transition-colors">
-                    Create New Somnia Links
+                    Create New SomLinks
                   </h3>
                   <p className="text-gray-300 text-lg leading-relaxed">
                     Generate your own AI-powered payment link with just a

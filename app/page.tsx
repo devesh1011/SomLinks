@@ -48,7 +48,7 @@ export default function Home() {
             </div>
             <div>
               <h1 className="text-lg sm:text-xl lg:text-2xl font-bold bg-gradient-to-r from-white via-pink-200 to-pink-300 bg-clip-text text-transparent">
-                Somnia Links
+                SomLinks
               </h1>
               <p className="text-xs sm:text-xs text-pink-300 hidden sm:block">
                 Powered by Somnia Network
@@ -77,7 +77,7 @@ export default function Home() {
 
             <h1 className="text-3xl sm:text-5xl md:text-6xl lg:text-7xl xl:text-8xl font-black text-white mb-3 sm:mb-4 lg:mb-6 leading-tight px-2">
               <span className="block text-fuchsia-600 font-pixelated">
-                Somnia Links
+                SomLinks
               </span>
             </h1>
 
@@ -127,7 +127,7 @@ export default function Home() {
                   <Save className="w-6 h-6 sm:w-7 sm:h-7 lg:w-8 lg:h-8 text-white" />
                 </div>
                 <h3 className="text-lg sm:text-xl lg:text-2xl font-bold text-white mb-2 sm:mb-3 lg:mb-4">
-                  Generate Somnia Links
+                  Generate SomLinks
                 </h3>
                 <p className="text-sm sm:text-base text-gray-300 leading-relaxed mb-4 sm:mb-5 lg:mb-6">
                   Create intelligent payment links powered by AI on the Somnia
@@ -155,7 +155,7 @@ export default function Home() {
                   <Wallet className="w-6 h-6 sm:w-7 sm:h-7 lg:w-8 lg:h-8 text-white" />
                 </div>
                 <h3 className="text-lg sm:text-xl lg:text-2xl font-bold text-white mb-2 sm:mb-3 lg:mb-4">
-                  Execute Somnia Links
+                  Execute SomLinks
                 </h3>
                 <p className="text-sm sm:text-base text-gray-300 leading-relaxed mb-4 sm:mb-5 lg:mb-6">
                   Load payment details instantly and execute transactions

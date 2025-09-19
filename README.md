@@ -1,4 +1,4 @@
-# Somnia Links
+# SomLinks
 
 AI-powered payment link generation platform built on the Somnia Network. Create intelligent payment links with beautiful custom interfaces powered by artificial intelligence.
 
@@ -66,8 +66,8 @@ AI-powered payment link generation platform built on the Somnia Network. Create 
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/Somnia Links
-cd Somnia Links
+git clone https://github.com/yourusername/SomLinks
+cd SomLinks
 ```
 
 ### 2. Install Dependencies

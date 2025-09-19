@@ -234,7 +234,7 @@ export default function SavePage() {
               </div>
               <div>
                 <h1 className="text-3xl font-black bg-gradient-to-r from-white via-red-200 to-red-300 bg-clip-text text-transparent">
-                  Somnia Links
+                  SomLinks
                 </h1>
                 <p className="text-red-400/80 text-sm font-medium">
                   Create Payment Links
@@ -263,7 +263,7 @@ export default function SavePage() {
           <h2 className="text-5xl md:text-6xl font-black text-white mb-6 leading-tight font-bold">
             Create
             <span className="block bg-gradient-to-r from-red-400 via-red-500 to-red-600 bg-clip-text text-transparent">
-              Somnia Links
+              SomLinks
             </span>
           </h2>
           <p className="text-xl text-gray-300 max-w-2xl mx-auto leading-relaxed">

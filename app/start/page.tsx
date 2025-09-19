@@ -100,7 +100,7 @@ export default function StartPage() {
               </div>
               <div>
                 <h1 className="text-3xl font-black bg-gradient-to-r from-white via-red-200 to-red-300 bg-clip-text text-transparent">
-                  Somnia Links
+                  SomLinks
                 </h1>
                 <p className="text-red-400/80 text-sm font-medium">
                   Payment Dashboard
@@ -146,7 +146,7 @@ export default function StartPage() {
 
         {/* Action cards with modern design */}
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 w-full max-w-6xl">
-          {/* Generate Somnia Links Card */}
+          {/* Generate SomLinks Card */}
           <div
             onClick={() => handleNavigation("/save")}
             className="group relative cursor-pointer"
@@ -177,7 +177,7 @@ export default function StartPage() {
               {/* Content */}
               <div className="space-y-4">
                 <h3 className="text-2xl font-bold text-white group-hover:text-red-100 transition-colors">
-                  Generate Somnia Links
+                  Generate SomLinks
                 </h3>
                 <p className="text-gray-300 text-lg leading-relaxed">
                   Create custom payment links with just a prompt using our
@@ -209,7 +209,7 @@ export default function StartPage() {
             </div>
           </div>
 
-          {/* Explore Somnia Links Card */}
+          {/* Explore SomLinks Card */}
           <div
             onClick={() => handleNavigation("/pay")}
             className="group relative cursor-pointer"
@@ -240,7 +240,7 @@ export default function StartPage() {
               {/* Content */}
               <div className="space-y-4">
                 <h3 className="text-2xl font-bold text-white group-hover:text-red-100 transition-colors">
-                  Explore Somnia Links
+                  Explore SomLinks
                 </h3>
                 <p className="text-gray-300 text-lg leading-relaxed">
                   Discover and interact with payment links created by other
